@@ -1,0 +1,7 @@
+keytotext==2.3.2
+mediapipe==0.8.9.1
+numpy==1.21.4
+opencv-contrib-python
+pyttsx3==2.90
+streamlit==1.9.2
+tensorflow
